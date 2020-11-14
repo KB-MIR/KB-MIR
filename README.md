@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#About Me
+- About Me
 <br>
 <br>
-##Here are some ideas to get you started:
+- Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in FAST Universtry peshawar...
 - 🌱 I’m currently learning Python...
