@@ -15,6 +15,6 @@
 <br>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Qasim%Ali-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/QasimAl22559862)](https://twitter.com/QasimAl22559862) 
+[![Twitter Badge](https://img.shields.io/badge/-Qasim%20Ali-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/QasimAl22559862)](https://twitter.com/QasimAl22559862) 
 [![Instagram Badge](https://img.shields.io/badge/-Qasim%20Ali-red?style=flat-square&logo=Instagram&logoColor=yellow&link=https://instagram.com)](https://www.instagram.com/qasimali3478/)
 
